@@ -1,0 +1,18 @@
+body {
+    background-color: cornflowerblue;
+}
+
+.weight {
+    margin: 5px;
+    padding: 10px;
+}
+
+.weight:hover {
+    color: white;
+    background-color: darkmagenta;
+}
+
+.weight:active {
+    color: white;
+    background-color: midnightblue;
+}
